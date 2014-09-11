@@ -1,16 +1,13 @@
 body {
-   background-image: url("http://fc09.deviantart.net/fs70/f/2013/245/e/9/despicable_me_gif___whaaaaaaat___by_c0l0ss4l_st1nk3r-d6km2g8.gif") 
+    background-image: url("http://www.countable.ca/images/howto-html5-css3.png")
 }
-       
-p{
-    color: white;
+   
+#current-link {
+    text-decoration: none;
 }
 
 nav a {
-    color: white;
-}
-#current-link {
-    text-decoration: none;
+    color: teal;
 }
 
 .uppercase {
@@ -25,7 +22,7 @@ img {
 }
 
 h1{
-    border: 1px dashed brown;
+    border: 1px dashed orange;
     padding-left: 20px; 
     padding-top: 20px;
     padding-bottom: 25px;
@@ -33,7 +30,8 @@ h1{
     margin-left: 50px;
     margin-right: 90px;
     }
-    
-    h2{
-        color: orange;
-    }
+.uppercase {
+    text-transform: uppercase; 
+    font-size: 26px; 
+    color: navy;
+}
