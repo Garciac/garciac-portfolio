@@ -1,7 +1,3 @@
-body {
-   background-image: url("http://fc09.deviantart.net/fs70/f/2013/245/e/9/despicable_me_gif___whaaaaaaat___by_c0l0ss4l_st1nk3r-d6km2g8.gif") 
-}
-       
 p{
     color: white;
 }
@@ -16,7 +12,7 @@ nav a {
 .uppercase {
     text-transform: uppercase; 
     font-size: 26px; 
-    color: navy;
+    color: turquoise;
 }
 
 img {
